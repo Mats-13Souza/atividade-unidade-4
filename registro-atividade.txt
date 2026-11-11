@@ -1,0 +1,11 @@
+ATIVIDADE PRÁTICA - UNIDADE 4
+Disciplina: Projeto de Software
+Tema: Gerenciamento de Configuração
+
+Este arquivo foi criado no GitHub Codespaces
+como parte da atividade prática de Git e GitHub.
+
+Objetivo:
+Demonstrar o controle de versão por meio da
+criação, alteração, registro e publicação
+de arquivos em um repositório remoto.
